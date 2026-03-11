@@ -36,7 +36,7 @@ from telegram.ext import (
 # ─────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN")
+TELEGRAM_TOKEN = os.getenv("7744782372:AAHSKutyK17ZWseX_4lt7rihwLQeADR-9nM", "8789475945:AAGDMLVDDaS3NIzPNQ46jNtKXtUCEt5xMIU")
 STAKE_API_URL  = "https://api.stake.com/graphql"
 DATA_FILE      = "users.json"
 
